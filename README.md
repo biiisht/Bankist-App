@@ -3,7 +3,7 @@ Key Features of Bankist App
 2. one can request for a loan if they met certain condtion.
 3. sort the transaction in ascending and descending order
 4. close the account
-
+```
 //Login Credentials
 Name        Username   Password
 
@@ -12,7 +12,7 @@ Jessica       jd        2222
 Steven        stw       3333
 Sarah         ss        4444
 
-
+```
 ![image](https://user-images.githubusercontent.com/76598859/156154202-3351184c-36df-4091-af1c-3b29deb34f84.png)
 
 Jonas account current status BEFORE requesting Loan
